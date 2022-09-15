@@ -44,4 +44,4 @@ def detect_image(food):
 uploads = upload_image()
 detect_image(uploads)
 
-st.info('🚧 Some beautiful data visualizations will be added soon :)')
+#st.info('🚧 Some beautiful data visualizations will be added soon :)')
