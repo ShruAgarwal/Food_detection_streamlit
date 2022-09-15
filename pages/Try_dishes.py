@@ -79,4 +79,4 @@ def detect_image(food):
 examples = example_image()
 detect_image(examples)
 
-st.info('🚧 Some beautiful data visualizations will be added soon :)')
+#st.info('🚧 Some beautiful data visualizations will be added soon :)')
